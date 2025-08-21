@@ -1,0 +1,33 @@
+{
+    "offices": {
+        "Cashier's Office": [
+            "Cashier's office blah blah blah blah blah",
+            "Cashier this is where you pay your financial obligation."
+        ],
+
+        "Registrar's Office": [
+            "Registrar asndhasjhdjhasjh",
+            "registrar jhasjdhsahdj"
+        ],
+
+        "CAST Office": ["CAST asndhasjhdjhasjh", "CAST jhasjdhsahdj"],
+
+        "MDC Library": [
+            "MDC Library asndhasjhdjhasjh",
+            "MDC Library jhasjdhsahdj",
+            "MDC Library stores over 50,000 books varies from different genres.",
+            "MDC Library is dhajshdasdasd123123123213",
+            "MDC Library aczxczxc",
+            "MDC Library dfgdfg dfgfd44848484848",
+            "MDC Library is sadgasdgasggfdgfdgfdg14414f4sdf4sd4f48"
+        ],
+
+        "CCJ Office": ["CCJ's asndhasjhsasdjhasjh", "CCJ's jhasfghdfhjdhsahdj"]
+    },
+
+    "general": [
+        "Mater Dei College was established in 1983.",
+        "Mater Dei College held their first commencement exercises on March 30, 1987 with 8 graduates in two-year courses. 3 were graduats of Associate Arts, 4 in Associate in Commercial Science, and 4 graduates in Junior Secretarial Course.",
+        "Sapentia means Wisdom through Scholarship, Caritas means Charity through Service, Oratio means Prayer-life through Living the Gospel."
+    ]
+}
