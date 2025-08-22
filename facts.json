@@ -2,7 +2,7 @@
     "offices": {
         "Cashier's Office": [
             "Cashier's office blah blah blah blah blah",
-            "Cashier this is where you pay your financial obligation."
+            "Cashier, this is where you pay your financial obligation."
         ],
 
         "Registrar's Office": [
@@ -10,7 +10,7 @@
             "registrar jhasjdhsahdj"
         ],
 
-        "CAST Office": ["CAST asndhasjhdjhasjh", "CAST jhasjdhsahdj"],
+        "CAST Office": ["CAST asndhasjhdjhasjh", "CAST jhasjdhsahdj", "CAST 3", "CAST 4", "CAST 5"],
 
         "MDC Library": [
             "MDC Library asndhasjhdjhasjh",
